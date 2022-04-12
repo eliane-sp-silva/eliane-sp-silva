@@ -20,6 +20,9 @@
   ###
   
   ![avatarEliane](https://user-images.githubusercontent.com/95144647/162952116-12a63b5b-11eb-4953-adca-1ca07fd0c789.gif)
+  
+  ###
+  
   Meu Currículo | [CV_ElianeSPSilva.docx](https://github.com/eliane-sp-silva/eliane-sp-silva/files/8472712/CV_ElianeSPSilva.docx)
   
   ###
