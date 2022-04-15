@@ -32,7 +32,8 @@
   
   ###
   
-  Meu Currículo | [CV_ElianeSPSilva.docx](https://github.com/eliane-sp-silva/eliane-sp-silva/files/8473535/CV_ElianeSPSilva.docx)
+  Meu Currículo | [CV_ElianeSPSilva.docx](https://github.com/eliane-sp-silva/eliane-sp-silva/files/8496145/CV_ElianeSPSilva.docx)
+  
   
   ###
   
