@@ -1,6 +1,6 @@
 ## :sparkles: :sparkles: :sparkles: 👩🏻‍🦱 Olá!! Sou Eliane, apaixonada por tecnologia! 👩🏻‍💻💻:sparkles: :sparkles: :sparkles:
 
-###  :heart_eyes: Seja Bem Vindo ao meu repositório!! :heart_eyes:
+###  :heart_eyes: :heart_eyes: :heart_eyes: Seja Bem Vindo ao meu repositório!! :heart_eyes: :heart_eyes: :heart_eyes:
   
   <div align="center">
   <a href="https://github.com/eliane-sp-silva">
@@ -16,16 +16,12 @@
   <img align="center" alt="Eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Eli-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
-  <img align="center" alt="Eli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Eli-Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">   
   <img align="center" alt="Eli-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
   <img align="center" alt="Eli-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">   
   <img align="center" alt="Eli-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">   
   <img align="center" alt="Eli-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
   <img align="center" alt="Eli-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">   
-  <img align="center" alt="Eli-PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">  
-    <img align="center" alt="Eli-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"> 
-    <img align="center" alt="Eli-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg"> 
+  <img align="center" alt="Eli-PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">   
     
 </div>
   
@@ -35,7 +31,7 @@
   
   ###
   
-  [Meu Currículo](https://github.com/eliane-sp-silva/eliane-sp-silva/files/9046076/CV_ElianeSPSilva.docx)
+ [Meu Currículo](https://github.com/eliane-sp-silva/eliane-sp-silva/files/9173772/CV_ElianeSPSilva.docx)  
   
     
   ###
