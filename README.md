@@ -8,6 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliane-sp-silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  ## 👩‍💻 Tecnologias 👩‍💻
   <div style="display: inline_block"><br>
   <img align="center" alt="Eli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,9 +22,10 @@
   <img align="center" alt="Eli-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">   
   <img align="center" alt="Eli-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
   <img align="center" alt="Eli-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">   
-  <img align="center" alt="Eli-PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">   
-    
+  <img align="center" alt="Eli-PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">       
 </div>
+  
+  ##
   
   ###
   
@@ -31,7 +33,7 @@
   
   ###
   
- [Meu Currículo](https://github.com/eliane-sp-silva/eliane-sp-silva/files/9173772/CV_ElianeSPSilva.docx)  
+ 
   
     
   ###
